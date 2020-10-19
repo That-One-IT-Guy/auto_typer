@@ -1,2 +1,2 @@
-# auto_typer
+# Auto typer
  
